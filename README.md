@@ -12,7 +12,7 @@
 
 ۳. در پوشه اصلی پروژه دستور زیر را جهت نصب پکیج های لازم اجرا کنید:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ۴. سپس با دستور زیر سرور لوکال را اجرا کنید:
 ```
