@@ -1,0 +1,8 @@
+{
+  "disks": [
+    {
+      "name": "noranipoordb",
+      "mountTo": "data"
+    }
+  ]
+}
